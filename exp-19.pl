@@ -1,0 +1,9 @@
+student(alice, cs101).
+student(bob, ub202).
+student(john, ec303).
+teacher(paul, cs101).
+teacher(smith, ub202).
+teacher(jane, ec303).
+subject(computer, cs101).
+subject(math, ub202).
+subject(pdsd, ec303).
